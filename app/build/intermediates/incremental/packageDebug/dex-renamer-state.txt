@@ -1,0 +1,7 @@
+#Thu Nov 03 23:00:31 ICT 2016
+base.0=D\:\\Document\\Kuliah Sesmeter 7\\Mobile Programming\\uts2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_433fa20b35ba587b3e5f86cbb909d21e06e18d1b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Document\\Kuliah Sesmeter 7\\Mobile Programming\\uts2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d9c03c03a38277c8ea1c25ccdc94047b0652e624\\classes.dex
+base.1=D\:\\Document\\Kuliah Sesmeter 7\\Mobile Programming\\uts2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d9c03c03a38277c8ea1c25ccdc94047b0652e624
+file.0=D\:\\Document\\Kuliah Sesmeter 7\\Mobile Programming\\uts2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_433fa20b35ba587b3e5f86cbb909d21e06e18d1b\\classes.dex

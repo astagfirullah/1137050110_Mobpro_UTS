@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="56152096348752"
+    token="5561268370980785091"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2476" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="427" />
+    <task
+        name="verifier"
+        duration="46" />
+
+    <artifact
+        location="D:\Document\Kuliah Sesmeter 7\Mobile Programming\uts2\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="56152096348752"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\Document\Kuliah Sesmeter 7\Mobile Programming\uts2\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
